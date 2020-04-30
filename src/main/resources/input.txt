@@ -1,0 +1,16 @@
+User1, xyzretail.com, 18:03:00
+User3, xyzretail.com, 18:04:00
+User1, xyzretail.com/mobiles, 18:03:20
+User4, xyzretail.com, 18:04:00
+User1, xyzretail.com/samusing-s8, 18:03:50
+User2, xyzretail.com/mobiles, 18:03:20
+User1, xyzretail.com, 18:04:00
+User4, xyzretail.com/mobiles, 18:03:20
+
+
+Hahaha I am invalid row I will break your spark job
+
+
+User1, xyzretail.com/page1, 18:04:30
+User4, xyzretail.com/samusing-s8, 18:03:50
+User2, xyzretail.com, 18:04:00
